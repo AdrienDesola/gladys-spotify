@@ -1,5 +1,3 @@
-require('dotenv').config();
-
 var setup = require('./lib/setup');
 var init = require('./lib/init');
 var shared = require('./lib/shared');
