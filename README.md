@@ -1,4 +1,4 @@
-# Gladys Spotify <img src="assets/spotify-connect.jpg" width="140">
+# Gladys Spotify <img src="docs/assets/spotify-connect.jpg" width="140">
 Use @GladysProject to Control your Spotify Premium account with Spotify Connect
 
 # Follow the tutorial
