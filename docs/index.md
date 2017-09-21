@@ -43,10 +43,6 @@ Fill the settings with the following information
 
 ![](assets/gladys-settings.png)
 
-spotify_client_id = <Client ID>
-spotify_client_secret = <Client Secrect>
-spotify_redirect_uri = <Redirect URIs>
-
 **Finally restart Gladys**
 
 ## 4. Initialization of the module
