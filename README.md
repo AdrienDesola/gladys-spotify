@@ -1,2 +1,1 @@
-# gladys-spotify
-Use Spotify connect with @GladysProject
+docs/index.md
