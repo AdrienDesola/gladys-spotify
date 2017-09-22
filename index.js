@@ -12,6 +12,7 @@ module.exports = function (sails) {
         setup,
         init,
         music,
+        shared,
         routes: {
             after: {
                 'GET /spotify': spotifyController
