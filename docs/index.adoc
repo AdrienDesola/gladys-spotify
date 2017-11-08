@@ -28,7 +28,7 @@ From your Gladys interface, go to the « Modules » view, then clic on the «�
 [cols=5*,options=header]
 |===
 | Name | Version | Depot | Slug | |
-Gladys Spotify | 1.0.0 | https://github.com/AdrienDesola/gladys-spotify.git | gladys-spotify | Install
+Gladys Spotify | 1.0.0 | https://github.com/AdrienDesola/gladys-spotify.git | spotify-connect | Install
 |===
 
 **Click on install**

@@ -18,7 +18,7 @@ Then add your Redirect URI including your RasberryPi address. You can follow thi
 
 image::/docs/assets/spotify-app-credentials.png[App credentials, width=450, align=center]
 
-**DON’T FORGET TO SAVE YOUR CONFIGURATION !**
+*DON’T FORGET TO SAVE YOUR CONFIGURATION !*
 
 image::/docs/assets/spotify-save-buttons.png[spotify save buttons, width=450, align=center]
 
@@ -28,7 +28,7 @@ From your Gladys interface, go to the « Modules » view, then clic on the «�
 [cols=5*,options=header]
 |===
 | Name | Version | Depot | Slug | |
-Gladys Spotify | 1.0.0 | https://github.com/AdrienDesola/gladys-spotify.git | gladys-spotify | Install
+Gladys Spotify | 1.0.0 | https://github.com/AdrienDesola/gladys-spotify.git | spotify-connect | Install
 |===
 
 **Click on install**
